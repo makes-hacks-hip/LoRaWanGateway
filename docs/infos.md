@@ -2,6 +2,7 @@
 
 ## LoRaWan
 
+- [LoRaWan - Erstinfos](https://wiki.fablab-altmuehlfranken.de/projekte/grossprojekte/lorawan/einfuehrung) in der FabWiki des FabLab Altmühlfranken
 - [LoRaWAN - Die Starthilfe für Einsteiger](https://www.aeq-web.com/starthilfe-lorawan/)
 - [So funktioniert die LoRa Payload](https://www.aeq-web.com/so-funktioniert-die-lora-payload-encoder-decoder-ttn/)
 - [Endlich verständlich: LoRa (und LoRaWAN) einfach erklärt! - LineMetrics Smart Building Plattform](https://www.linemetrics.com/de/lora-und-lorawan-einfach-erklaert/)
@@ -25,8 +26,8 @@
 
 ## Hardware für Evaluation  
 
-- Seamuing SX1262 LoRa-Modul 868 915 MHz LoRaWAN IoT Development Board ASR6501 MCU 128 KB Flash Ultra niedriger Stromverbrauch, solarbetrieben mit Antenne für Arduino und Intelligent Scene https://amzn.eu/d/9zWjWPI
-- Seamuing ESP32 LoRa Development Board SX1276 868 915MHz WiFi Module IoT Board Dual Core 240MHz Low Power Consumption with 0.96 Inch OLED Display and Antenna for Arduino https://amzn.eu/d/3FCah99
+- Seamuing SX1262 LoRa-Modul 868 915 MHz LoRaWAN IoT Development Board ASR6501 MCU 128 KB Flash Ultra niedriger Stromverbrauch, solarbetrieben mit Antenne für Arduino und Intelligent Scene /Link NEU/
+- Seamuing ESP32 LoRa Development Board SX1276 868 915MHz WiFi Module IoT Board Dual Core 240MHz Low Power Consumption with 0.96 Inch OLED Display and Antenna for Arduino /Link NEU/
 
 ## The Things Network
 
